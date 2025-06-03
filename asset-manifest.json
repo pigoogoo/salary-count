@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pigoogoo/salary-count.git/static/css/main.5a7e9106.css",
+    "main.js": "/pigoogoo/salary-count.git/static/js/main.8181fdd1.js",
+    "index.html": "/pigoogoo/salary-count.git/index.html",
+    "main.5a7e9106.css.map": "/pigoogoo/salary-count.git/static/css/main.5a7e9106.css.map",
+    "main.8181fdd1.js.map": "/pigoogoo/salary-count.git/static/js/main.8181fdd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7e9106.css",
+    "static/js/main.8181fdd1.js"
+  ]
+}
